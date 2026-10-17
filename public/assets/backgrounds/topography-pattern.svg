@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" fill="none" opacity="0.04">
+  <!-- Subtle organic contour curves representing rural topography of Telangana -->
+  <path d="M0 120C150 140 250 80 400 110C550 140 600 80 600 80V0H0V120Z" fill="#173F35"/>
+  <path d="M0 240C120 200 280 260 420 220C520 190 600 240 600 240V140C520 120 400 160 280 120C140 80 0 160 0 160V240Z" fill="#173F35"/>
+  <path d="M0 380C140 420 260 360 390 390C500 420 600 370 600 370V280C500 300 380 260 240 280C110 300 0 260 0 260V380Z" fill="#173F35"/>
+  <path d="M0 520C130 500 270 540 410 500C520 470 600 520 600 520V420C480 390 360 440 220 410C100 390 0 430 0 430V520Z" fill="#173F35"/>
+  <circle cx="140" cy="190" r="80" stroke="#173F35" stroke-width="1" stroke-dasharray="3 4"/>
+  <circle cx="480" cy="450" r="110" stroke="#173F35" stroke-width="1" stroke-dasharray="4 6"/>
+</svg>
